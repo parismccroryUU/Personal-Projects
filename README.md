@@ -15,10 +15,15 @@ Project: Description
 Project: Description
 
 **Calculator:** A simple calculator implementing arithmetic operations.
+
 **Library Management System:** A system for managing library resources and related operations.
+
 **BMI Calculator:** Calculates Body Mass Index (BMI) using user-provided measurements.
+
 **Coin Printer:** A program involving coin values and output generation.
+
 **Fibonacci Sequence:** Generates numbers in the Fibonacci sequence.
+
 **Sensor Processor:** Processes sensor-related data using programming fundamentals.
 
 *Note: Several Java projects were developed as part of university practical work.*
@@ -28,6 +33,7 @@ Project: Description
 Project: Description
 
 **Calculator:** A console-based calculator supporting addition, subtraction, multiplication and division, with input validation and exception handling.
+
 **To-Do List Application:** A console-based task manager allowing users to add, remove and manage tasks.
 
 ## Tools & Technologies
